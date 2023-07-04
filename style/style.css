@@ -95,6 +95,7 @@ header p {
     font-size: 1.2em;
     max-width: 500px;
     margin: auto;
+    padding-bottom: 30px;
     text-shadow: 6px 2px 5px rgba(0, 0, 0, 0.384);
 }
 
